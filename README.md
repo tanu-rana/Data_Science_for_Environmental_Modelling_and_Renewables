@@ -1,2 +1,2 @@
-# Data_Science_for_Environmental_Modelling_and_Renewables
-MOOC on Environmental Informatics
+## This repo contains resources (particularly data and R code) from the course "Data Science for Environmetal Monitoring and Renewables" on Future Learn.
+
